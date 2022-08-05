@@ -1,1 +1,14 @@
-/* styles go here */
+input {
+  margin: 10px;
+}
+
+form {
+  width: 800px;
+  margin: 20px auto;
+  display: flexbox;
+}
+
+.button {
+  margin: 20px;
+  
+}
