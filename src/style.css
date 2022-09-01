@@ -1,14 +1,11 @@
-input {
-  margin: 10px;
+.form-field {
+  display: block;
 }
 
-form {
-  width: 800px;
-  margin: 20px auto;
-  display: flexbox;
+.form-field:not(:last-child) {
+  margin-bottom: 10px;
 }
 
-.button {
+.fieldset {
   margin: 20px;
-  
 }
